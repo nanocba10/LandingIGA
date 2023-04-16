@@ -1,12 +1,12 @@
 body{
-    background-image:url("/Componentes/Imagens/form\ 2.png");
+    background-image:url("/LandingIGA/Componentes/Imagens/form 2.png");
     background-repeat: no-repeat;
     width: 100%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .mob_back{
-    background-image:url("/Componentes/Imagens/Form.png");
+    background-image:url("/LandingIGA/Componentes/Imagens/Form.png");
     background-repeat: no-repeat;
     max-width: 100%;
     max-height: 750px;
